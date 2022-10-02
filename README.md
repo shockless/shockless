@@ -115,7 +115,7 @@
 * 🥇 [WorldSkills 2019](https://worldskills.ru) "Web Design and Development"
 * 🥇<sub>Profficiency Medal</sub> [WorldSkills 2018](https://worldskills.ru) "Web Design and Development"
 * 4/30 [WorldSkills 2019](https://worldskills.ru) "Game Development"
-* 37/81 [Leaders of Digital](https://lk.hacks-ai.ru/758465/) "Microcirculation"
+* 42/109 [Leaders of Digital](https://lk.hacks-ai.ru/758465/) "Microcirculation"
 
 ### Hobbies
 * 🎹 DJing and Music Production
