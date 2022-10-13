@@ -6,25 +6,30 @@
 ### 📊 ML stack
 <p align="left"> 
   <a href="https://www.python.org" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" height="40"/>
   </a>
-  
+  <a href="https://catboost.ai/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png" alt="catboost" height="40"/>
+  </a>
   <a href="https://pytorch.org" target="_blank"> 
-    <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="pytorch" width="40" height="40"/>
+    <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="pytorch" height="40"/>
   </a>
   
   <a href="https://albumentations.ai" target="_blank"> 
-    <img src="https://albumentations.ai/assets/img/custom/albumentations_logo.png" alt="albumentations" width="40" height="40"/>
+    <img src="https://albumentations.ai/assets/img/custom/albumentations_logo.png" alt="albumentations" height="40"/>
   </a>
   
   <a href="https://matplotlib.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png" alt="matplotlib" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png" alt="matplotlib" height="40"/>
   </a>
   
   <a href="https://github.com/RaRe-Technologies/gensim" target="_blank"> 
-    <img src="https://camo.githubusercontent.com/0af679e0f4bfdd38ebbf1065bfe04f8f4e23cafff24df48b9883bbbb9413ff08/687474703a2f2f726172652d746563686e6f6c6f676965732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031362f30322f726172655f696d6167655f6f6e6c792e706e67" alt="gensim" width="40" height="40"/>
+    <img src="https://camo.githubusercontent.com/0af679e0f4bfdd38ebbf1065bfe04f8f4e23cafff24df48b9883bbbb9413ff08/687474703a2f2f726172652d746563686e6f6c6f676965732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031362f30322f726172655f696d6167655f6f6e6c792e706e67" alt="gensim" height="40"/>
   </a>
- 
+   </a>
+    <a href="https://scikit-learn.org/" target="_blank"> 
+    <img src="https://user-images.githubusercontent.com/45824858/195587674-cf6e52ac-e9d9-49fb-9b12-90c4f8129802.png" alt="scikit-learn" height="40"/>
+  </a>
 </p>
 
 
