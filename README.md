@@ -38,19 +38,19 @@
 <p align="left"> 
   
   <a href="https://docs.microsoft.com/ru-ru/dotnet/csharp/" target="_blank"> 
-    <img src="https://static.wikia.nocookie.net/wikies/images/4/43/Logo-csharp.png/revision/latest?cb=20180617092325&path-prefix=ru" alt="c#" width="40" height="40"/>
+    <img src="https://static.wikia.nocookie.net/wikies/images/4/43/Logo-csharp.png/revision/latest?cb=20180617092325&path-prefix=ru" alt="c#" height="40"/>
   </a>
   
   <a href="https://ru.wikipedia.org/wiki/HTML" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" alt="html" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" alt="html" height="40"/>
   </a>
 
   <a href="https://ru.wikipedia.org/wiki/CSS" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" alt="css" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" alt="css" height="40"/>
   </a>
   
   <a href="https://ru.wikipedia.org/wiki/CSS" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="js" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="js" height="40"/>
   </a>
 
   <a href="https://www.php.net" target="_blank"> 
