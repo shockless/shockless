@@ -54,11 +54,11 @@
   </a>
 
   <a href="https://www.php.net" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1920px-PHP-logo.svg.png" alt="php" width="50" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1920px-PHP-logo.svg.png" alt="php" height="40"/>
   </a>
   
   <a href="https://www.postgresql.org" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" height="40"/>
   </a>
   
 </p>
@@ -66,23 +66,23 @@
 ### 🖌️ Design Stack
 <p align="left"> 
   <a href="https://www.adobe.com/ru/products/photoshop.html" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1024px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1024px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" height="40"/>
   </a>
   
   <a href="http://www.adobe.com/ru/products/illustrator/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1024px-Adobe_Illustrator_CC_icon.svg.png" alt="illustrator" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1024px-Adobe_Illustrator_CC_icon.svg.png" alt="illustrator" height="40"/>
   </a>
   
   <a href="https://www.maxon.net/en/products/cinema-4d/overview/" target="_blank"> 
-    <img src="https://user-images.githubusercontent.com/45824858/191867300-59f55ade-a85a-4aba-b331-0cd1d78b012c.png" alt="cinema4d" width="40" height="40"/>
+    <img src="https://user-images.githubusercontent.com/45824858/191867300-59f55ade-a85a-4aba-b331-0cd1d78b012c.png" alt="cinema4d" height="40"/>
   </a>
   
   <a href="https://www.figma.com" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/800px-Figma-logo.svg.png" alt="figma" width="30" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/800px-Figma-logo.svg.png" alt="figma" height="40"/>
   </a>
   
   <a href="https://canva.com/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Canva_logo.png" alt="canva" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Canva_logo.png" alt="canva" height="40"/>
   </a>
 
 </p>
@@ -91,24 +91,33 @@
 ### 🔧 Other skills
 <p>
   <a href="https://ru.wikipedia.org/wiki/Bash" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" alt="bash" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" alt="bash" height="40"/>
   </a>
   
   <a href="https://git-scm.com/doc" target="_blank"> 
-    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="40" height="40"/>
+    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" height="40"/>
   </a>
   
   <a href="https://isocpp.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="c++" width="35" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="c++" height="40"/>
   </a>
   
   <a href="https://visualstudio.microsoft.com/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/512px-Visual_Studio_Icon_2019.svg.png" alt="visualstudio" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/512px-Visual_Studio_Icon_2019.svg.png" alt="visualstudio" height="40"/>
   </a>
   
   <a href="https://www.jetbrains.com/pycharm/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png?20200803065702" alt="pycharm" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png?20200803065702" alt="pycharm" height="40"/>
   </a>
+  
+  <a href="https://www.docker.com/" target="_blank"> 
+    <img src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" alt="docker" height="40"/>
+  </a>
+  
+  <a href="https://jupyter.org/hub" target="_blank"> 
+    <img src="https://jupyter.org/assets/homepage/hublogo.svg" alt="jupyter-hub" height="40"/>
+  </a>
+  
 </p>
 
 ### 🎓 Education
