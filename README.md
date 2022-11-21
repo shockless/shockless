@@ -126,7 +126,6 @@
 * [NUST MISIS](https://en.misis.ru) (Since 2021)
 
 ### 🏆 Competition Background
-* 
 * 🥈10/63 [AIJ 2022](https://dsworks.ru) "AI4Sea"
 * 🥇<sub>Finalist</sub> [MoreTech 4.0](https://moretech.vtb.ru) "Data Track"
 * 42/109 [Leaders of Digital](https://lk.hacks-ai.ru/758465/) "Microcirculation"
