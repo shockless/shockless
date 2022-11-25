@@ -76,11 +76,7 @@
   <a href="https://www.maxon.net/en/products/cinema-4d/overview/" target="_blank"> 
     <img src="https://user-images.githubusercontent.com/45824858/191867300-59f55ade-a85a-4aba-b331-0cd1d78b012c.png" alt="cinema4d" height="40"/>
   </a>
-  
-  <a href="https://www.figma.com" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/800px-Figma-logo.svg.png" alt="figma" height="40"/>
-  </a>
-  
+
   <a href="https://canva.com/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Canva_logo.png" alt="canva" height="40"/>
   </a>
