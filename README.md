@@ -118,7 +118,7 @@
 
 ### 🎓 Education
 
-* [Deep Learning School](https://mipt.ru/science/labs/innovation/projects/deep_learning_school) (Since 2021)
+* [Deep Learning School](https://mipt.ru/science/labs/innovation/projects/deep_learning_school) (2021-2022)
 * [NUST MISIS](https://en.misis.ru) (Since 2021)
 
 ### 🏆 Competition Background
