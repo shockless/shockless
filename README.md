@@ -1,5 +1,5 @@
 ## Fedor Avilov
-#### Data Scientist / Web Programmer / Designer 
+#### Data Scientist / Web Programmer
 </br>
 
 
