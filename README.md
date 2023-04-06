@@ -1,5 +1,5 @@
 ## Fedor Avilov
-#### Data Scientist / Web Programmer
+#### Data Scientist / Audio Enthusiast
 </br>
 
 
