@@ -23,6 +23,18 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png" alt="matplotlib" height="40"/>
   </a>
   
+  <a href="https://huggingface.co" target="_blank"> 
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" height="40"/>
+  </a>
+  
+  <a href="https://pytorch.org/audio/stable/index.html" target="_blank"> 
+    <img src="https://download.pytorch.org/torchaudio/logo/v1/logo_vertical_fullcolor.png" alt="torchaudio" height="40"/>
+  </a>
+  
+  <a href="librosa.org" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/18124827?s=280&v=4" alt="librosa" height="40"/>
+  </a>
+  
   <a href="https://github.com/RaRe-Technologies/gensim" target="_blank"> 
     <img src="https://camo.githubusercontent.com/0af679e0f4bfdd38ebbf1065bfe04f8f4e23cafff24df48b9883bbbb9413ff08/687474703a2f2f726172652d746563686e6f6c6f676965732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031362f30322f726172655f696d6167655f6f6e6c792e706e67" alt="gensim" height="40"/>
   </a>
@@ -33,28 +45,12 @@
 </p>
 
 
-### 💻 Web stack
+### 💻 Backend stack
 
 <p align="left"> 
   
   <a href="https://docs.microsoft.com/ru-ru/dotnet/csharp/" target="_blank"> 
     <img src="https://static.wikia.nocookie.net/wikies/images/4/43/Logo-csharp.png/revision/latest?cb=20180617092325&path-prefix=ru" alt="c#" height="40"/>
-  </a>
-  
-  <a href="https://ru.wikipedia.org/wiki/HTML" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" alt="html" height="40"/>
-  </a>
-
-  <a href="https://ru.wikipedia.org/wiki/CSS" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" alt="css" height="40"/>
-  </a>
-  
-  <a href="https://ru.wikipedia.org/wiki/CSS" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="js" height="40"/>
-  </a>
-
-  <a href="https://www.php.net" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1920px-PHP-logo.svg.png" alt="php" height="40"/>
   </a>
   
   <a href="https://www.postgresql.org" target="_blank"> 
