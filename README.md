@@ -33,7 +33,7 @@
   </a>
   
   <a href="librosa.org" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/18124827?s=280&v=4" alt="librosa" height="60"/>
+    <img src="https://avatars.githubusercontent.com/u/18124827?s=280&v=4" alt="librosa" height="40"/>
   </a>
   
 </p>
