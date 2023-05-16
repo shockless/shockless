@@ -28,13 +28,15 @@
 
 <p align="left">
   
-  <a href="https://pytorch.org/audio/stable/index.html" target="_blank"> 
-    <img src="https://download.pytorch.org/torchaudio/logo/v1/logo_vertical_fullcolor.png" alt="torchaudio" height="60"/>
-  </a>
-  
   <a href="librosa.org" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/18124827?s=280&v=4" alt="librosa" height="40"/>
   </a>
+  
+  <a href="https://pytorch.org/audio/stable/index.html" target="_blank"> 
+    <img src="https://pytorch.org/audio/stable/_images/logo.png" alt="torchaudio" height="50"/>
+  </a>
+  
+  
   
 </p>
 <p align="left">
