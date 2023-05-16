@@ -24,25 +24,30 @@
   <a href="https://huggingface.co" target="_blank"> 
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" height="40"/>
   </a>
+</p>
+
+<p align="left">
+  
+  <a href="https://pytorch.org/audio/stable/index.html" target="_blank"> 
+    <img src="https://download.pytorch.org/torchaudio/logo/v1/logo_vertical_fullcolor.png" alt="torchaudio" height="60"/>
+  </a>
+  
+  <a href="librosa.org" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/18124827?s=280&v=4" alt="librosa" height="60"/>
+  </a>
+  
+</p>
+<p align="left">
   
   <a href="https://albumentations.ai" target="_blank"> 
     <img src="https://albumentations.ai/assets/img/custom/albumentations_logo.png" alt="albumentations" height="40"/>
   </a>
   
-  <a href="https://pytorch.org/audio/stable/index.html" target="_blank"> 
-    <img src="https://download.pytorch.org/torchaudio/logo/v1/logo_vertical_fullcolor.png" alt="torchaudio" height="40"/>
-  </a>
-  
-  <a href="librosa.org" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/18124827?s=280&v=4" alt="librosa" height="40"/>
-  </a>
-  
   <a href="https://opencv.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="open-cv" height="40"/>
   </a>
-
+  
 </p>
-
 
 ### 💻 Backend stack
 
