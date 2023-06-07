@@ -65,26 +65,6 @@
   
 </p>
 
-### 🖌️ Design Stack
-<p align="left"> 
-  <a href="https://www.adobe.com/ru/products/photoshop.html" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1024px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" height="40"/>
-  </a>
-  
-  <a href="http://www.adobe.com/ru/products/illustrator/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1024px-Adobe_Illustrator_CC_icon.svg.png" alt="illustrator" height="40"/>
-  </a>
-  
-  <a href="https://www.maxon.net/en/products/cinema-4d/overview/" target="_blank"> 
-    <img src="https://user-images.githubusercontent.com/45824858/191867300-59f55ade-a85a-4aba-b331-0cd1d78b012c.png" alt="cinema4d" height="40"/>
-  </a>
-
-  <a href="https://canva.com/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Canva_logo.png" alt="canva" height="40"/>
-  </a>
-
-</p>
-
 
 ### 🔧 Other skills
 <p>
